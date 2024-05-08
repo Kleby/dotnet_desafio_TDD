@@ -1,0 +1,14 @@
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\bin\Debug\net8.0\TDD.exe
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\bin\Debug\net8.0\TDD.deps.json
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\bin\Debug\net8.0\TDD.runtimeconfig.json
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\bin\Debug\net8.0\TDD.dll
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\bin\Debug\net8.0\TDD.pdb
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\TDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\TDD.AssemblyInfoInputs.cache
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\TDD.AssemblyInfo.cs
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\TDD.csproj.CoreCompileInputs.cache
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\TDD.dll
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\refint\TDD.dll
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\TDD.pdb
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\TDD.genruntimeconfig.cache
+D:\Workstation\Estudos\dotnet\TDD_PROJETO_FINAL\TDD\TDD\obj\Debug\net8.0\ref\TDD.dll
